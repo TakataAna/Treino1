@@ -1,6 +1,6 @@
 # Treino1
 
-# Meu segundo repositorio no Git
+Meu segundo repositorio no Git
 
 # Introduções de Uso:
 
