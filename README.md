@@ -1,6 +1,12 @@
 # Treino1
 
-Meu segundo repositorio no Git
+Meu segundo repositorio no Git. Um projeto de blog simples.
+
+# Tecnologias utilizadas:
+
+1. HTML;
+2. CSS;
+3. JS.
 
 # Introduções de Uso:
 
